@@ -6,4 +6,5 @@
 # --platform=linux/arm64 xiaoyaliu/alist
 
 # maven私有仓库
-openjdk:21-jdk
+# openjdk:21-jdk
+sonatype/nexus
