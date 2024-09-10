@@ -7,4 +7,4 @@
 
 # maven私有仓库
 # openjdk:21-jdk
-sonatype/nexus
+sonatype/nexus3:3.72.0
