@@ -9,4 +9,5 @@
 # openjdk:21-jdk
 # sonatype/nexus3:3.72.0
 # minio/minio
-nginx
+# nginx
+continuumio/anaconda3:2024.10-1
