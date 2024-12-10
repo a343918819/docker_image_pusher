@@ -11,4 +11,5 @@
 # minio/minio
 # nginx
 # continuumio/anaconda3:2024.10-1
-continuumio/miniconda3:24.9.2-0
+# continuumio/miniconda3:24.9.2-0
+alpine:3.21.0
