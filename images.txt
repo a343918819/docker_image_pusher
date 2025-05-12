@@ -15,4 +15,5 @@
 # alpine:3.21.0
 # python:3.12-slim
 # apacherocketmq/rocketmq-dashboard、
-apache/rocketmq-exporter:0.0.2-SNAPSHOT
+# apache/rocketmq-exporter:0.0.2-SNAPSHOT
+uozi/nginx-ui
