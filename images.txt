@@ -16,4 +16,5 @@
 # python:3.12-slim
 # apacherocketmq/rocketmq-dashboard、
 # apache/rocketmq-exporter:0.0.2-SNAPSHOT
-uozi/nginx-ui
+# uozi/nginx-ui
+minio/minio:RELEASE.2025-06-13T11-33-47Z
