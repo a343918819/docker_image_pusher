@@ -21,5 +21,6 @@
 # flink:1.17.1
 # grafana/grafana:12.0.2
 # minio/minio:RELEASE.2025-04-22T22-12-26Z
-grafana/loki:3.4.4
-grafana/promtail:3.4.4
+# grafana/loki:3.4.4
+# grafana/promtail:3.4.4
+prom/prometheus:v2.53.5
