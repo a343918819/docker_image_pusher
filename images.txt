@@ -20,4 +20,5 @@
 # minio/minio:RELEASE.2025-06-13T11-33-47Z
 # flink:1.17.1
 # grafana/grafana:12.0.2
-minio/minio:RELEASE.2025-04-22T22-12-26Z
+# minio/minio:RELEASE.2025-04-22T22-12-26Z
+grafana/loki:3.5.1
