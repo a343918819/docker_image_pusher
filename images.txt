@@ -18,4 +18,5 @@
 # apache/rocketmq-exporter:0.0.2-SNAPSHOT
 # uozi/nginx-ui
 # minio/minio:RELEASE.2025-06-13T11-33-47Z
-flink:1.17.1
+# flink:1.17.1
+grafana/grafana:12.0.2
