@@ -26,4 +26,5 @@
 # prom/prometheus:v2.53.5
 # prom/mysqld-exporter:v0.17.2
 # prometheuscommunity/postgres-exporter:v0.17.1
-nacos/nacos-server:v2.3.2
+# nacos/nacos-server:v2.3.2
+elasticsearch:7.6.2
