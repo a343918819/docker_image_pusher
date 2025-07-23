@@ -28,4 +28,5 @@
 # prometheuscommunity/postgres-exporter:v0.17.1
 # nacos/nacos-server:v2.3.2
 # elasticsearch:7.6.2
-kibana:7.6.2
+# kibana:7.6.2
+nginx/nginx-prometheus-exporter:1.4.2
