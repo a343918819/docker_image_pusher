@@ -29,4 +29,5 @@
 # nacos/nacos-server:v2.3.2
 # elasticsearch:7.6.2
 # kibana:7.6.2
-nginx/nginx-prometheus-exporter:1.4.2
+# nginx/nginx-prometheus-exporter:1.4.2
+chishin/nginx-proxy-manager-zh:2.12.6
