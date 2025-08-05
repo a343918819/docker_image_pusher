@@ -17,7 +17,6 @@
 # apacherocketmq/rocketmq-dashboard、
 # apache/rocketmq-exporter:0.0.2-SNAPSHOT
 # minio/minio:RELEASE.2025-06-13T11-33-47Z
-# flink:1.17.1
 # grafana/grafana:12.0.2
 # minio/minio:RELEASE.2025-04-22T22-12-26Z
 # grafana/loki:3.4.4
@@ -31,4 +30,5 @@
 # nginx/nginx-prometheus-exporter:1.4.2
 # chishin/nginx-proxy-manager-zh:2.12.6
 # uozi/nginx-ui:v2.1.14
-allinssl/allinssl:v1.0.7
+# allinssl/allinssl:v1.0.7
+flink:scala_2.12
