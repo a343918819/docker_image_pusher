@@ -32,4 +32,5 @@
 # uozi/nginx-ui:v2.1.14
 # allinssl/allinssl:v1.0.7
 # flink:scala_2.12
-apache/rocketmq:5.3.2
+# apache/rocketmq:5.3.2
+openjdk:17-jdk
