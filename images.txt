@@ -31,4 +31,5 @@
 # chishin/nginx-proxy-manager-zh:2.12.6
 # uozi/nginx-ui:v2.1.14
 # allinssl/allinssl:v1.0.7
-flink:scala_2.12
+# flink:scala_2.12
+apache/rocketmq:5.3.2
