@@ -34,4 +34,5 @@
 # flink:scala_2.12
 # apache/rocketmq:5.3.2
 # openjdk:17-jdk
-oliver006/redis_exporter:v1.75.0
+# oliver006/redis_exporter:v1.75.0
+rancher/rancher:v2.12.0
