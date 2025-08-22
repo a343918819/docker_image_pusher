@@ -37,3 +37,4 @@
 # oliver006/redis_exporter:v1.75.0
 # rancher/rancher:v2.9.0
 osmiling/xxl-job:3.1.0
+grafana/promtail:3.5.3
