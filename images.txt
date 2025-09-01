@@ -38,5 +38,5 @@
 # rancher/rancher:v2.9.0
 # osmiling/xxl-job:3.1.0
 # grafana/promtail:3.5.3
-apache/doris:fe-3.0.7
-apache/doris:be-3.0.7
+apache/doris:fe-2.1.11
+apache/doris:be-2.1.11
