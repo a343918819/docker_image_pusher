@@ -31,10 +31,10 @@
 # chishin/nginx-proxy-manager-zh:2.12.6
 # uozi/nginx-ui:v2.1.14
 # allinssl/allinssl:v1.0.7
-# flink:scala_2.12
+flink:1.20.2-scala_2.12
 # apache/rocketmq:5.3.2
 # openjdk:17-jdk
-oliver006/redis_exporter:v1.82.0
+# oliver006/redis_exporter:v1.82.0
 # rancher/rancher:v2.9.0
 # osmiling/xxl-job:3.1.0
 # grafana/promtail:3.5.3
